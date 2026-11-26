@@ -1,4 +1,4 @@
-# ONVIF Camera Inventory V4
+# ONVIF Camera Inventory
 
 A Windows desktop utility for discovering ONVIF IP cameras, viewing live RTSP
 video and audio, and configuring camera network settings.
